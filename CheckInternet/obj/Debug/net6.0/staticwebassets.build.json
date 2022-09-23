@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "D4tLQ69zFAvCSEowA4ypSBS+7Bov2fBaK8WuSGJMSaQ=",
+  "Source": "CheckInternet",
+  "BasePath": "_content/CheckInternet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
